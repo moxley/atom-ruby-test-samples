@@ -1,4 +1,4 @@
-require 'spec_helper'
+require_relative '../spec_helper'
 
 describe RspecProj::Addition do
   it "adds two numbers"  do
